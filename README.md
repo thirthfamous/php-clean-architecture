@@ -1,4 +1,4 @@
-# php-with-unit-test
+# PHP Login with Unit Test Using Clean Architecture
 Simple PHP & MySQL Login Project coded with clean architecture and unit test
 
 ---
