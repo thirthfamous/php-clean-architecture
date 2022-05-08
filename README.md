@@ -9,7 +9,7 @@ Simple PHP & MySQL Login Project coded with clean architecture and unit test
 
 ### Prerequisite
 * For quick installation, please install XAMPP with PHP 8 at [XAMPP official site](https://www.apachefriends.org/download.html)
-* Install composer at [https://getcomposer.org/](Composer official site)
+* Install Composer at [Composer official site](https://getcomposer.org/)
 
 ---
 
